@@ -1,11 +1,13 @@
 
   h1{
     color: pink;
+    font-size:10vw;
     font-family: cursive;
     text-shadow: 1px 1px 2px black, 0 0 25px pink, 0 0 5px pink;
   }
   h3{
     color: pink;
+    font-size:10vw;
     font-family: cursive;
     text-shadow: 1px 1px 2px black, 0 0 25px pink, 0 0 5px pink;
   }
@@ -13,6 +15,7 @@
   
   h4{
     color: pink;
+    font-size:10vw;
     font-family: cursive;
   }
 
@@ -68,7 +71,7 @@
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
-  .column {
+  .column, .row{
     width: 100%;
   }
 }
