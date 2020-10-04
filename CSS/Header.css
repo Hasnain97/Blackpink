@@ -57,7 +57,7 @@ img.sc:hover{
 
 /* Dropdown button */
 .dropdown .dropbtn {
-  font-size: 2vw;
+  
   font-family: cursive;
   border: none;
   outline: none;
@@ -93,7 +93,7 @@ img.sc:hover{
   text-decoration: none;
   display: block;
   text-align: left;
-  font-size: 2vw;
+
 }
 
 /* Add a grey background color to dropdown links on hover 
